@@ -1,4 +1,5 @@
-
+#PROYECTO DE WEBSCRAPING PARA SACAR VIGENCIA DE GARANTIA Y MODELO ATRAVEZ DE UN ARCHIVO DE EXCEL COMO ENTRADA
+#GENERANDO COMO SALIDA UN ARCHIVO TXT CON IDENTIFICADOR SERIAL MODELO Y MESES DE GARANTIA  PENDIENTES APARTIR DE LA FECHA.
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
@@ -22,7 +23,7 @@ nombres = wb.get_sheet_by_name('Hoja1')
 wb.close()
 agregar="CODIGO NCR;CODIGO SAP;SERIAL;MODELO"
 i = 33
-for i in range(2,222):
+for i in range(1,222):
     cod_ncr, nom_tienda, serial = nombres[f'A{i}:C{i}'][0]
 
     ser= serial.value
