@@ -25,13 +25,13 @@ agregar="CODIGO NCR;CODIGO SAP;SERIAL;MODELO"
 i = 33
 for i in range(1,217):
     cod_ncr, nom_tienda, serial = nombres[f'A{i}:C{i}'][0]
-    
+
     ser= serial.value
     ELEMENTO = driver.find_element_by_name("serialNumber")
     ELEMENTO.send_keys(ser+Keys.ENTER)
-    
+
     time.sleep(10)
-  
+
     model  = driver.find_element_by_xpath('/html/body/div[2]/section[2]/div[1]/div[2]/div[1]/h4').text
     mes_garantia = driver.find_element_by_xpath('/html/body/div[2]/section[2]/div[2]/div/div[2]/div/div[2]/div[1]/div[1]/div/div/p/span[2]').text
 
@@ -40,15 +40,14 @@ for i in range(1,217):
     agregar=agregar+linea+"\n"
     archivo2.write(linea)
     archivo2.close()
-    
-    
+
     print(str(i),";",str(cod_ncr.value),";", str(nom_tienda.value),";", str(serial.value),";", (model),";",mes_garantia)
-    
+
     driver.get("https://www.lenovo.com/co/es/pc-services")
-    
+
     time.sleep(5)
-    
-    
+
+
 
 driver.quit()
 
