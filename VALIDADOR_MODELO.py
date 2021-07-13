@@ -23,7 +23,7 @@ nombres = wb.get_sheet_by_name('Hoja1')
 wb.close()
 agregar="CODIGO NCR;CODIGO SAP;SERIAL;MODELO"
 i = 33
-for i in range(1,217):
+for i in range(157,217):
     cod_ncr, nom_tienda, serial = nombres[f'A{i}:C{i}'][0]
 
     ser= serial.value
