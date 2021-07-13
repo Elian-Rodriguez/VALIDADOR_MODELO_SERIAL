@@ -3,11 +3,10 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from openpyxl import load_workbook
-import openpyxl
 import time
-import os
-import subprocess
-from subprocess import check_output
+
+
+
 
 options = webdriver.ChromeOptions()
 options.add_experimental_option('excludeSwitches', ['enable-logging'])
@@ -23,7 +22,7 @@ nombres = wb.get_sheet_by_name('Hoja1')
 wb.close()
 agregar="CODIGO NCR;CODIGO SAP;SERIAL;MODELO"
 i = 33
-for i in range(157,217):
+for i in range(2,222):
     cod_ncr, nom_tienda, serial = nombres[f'A{i}:C{i}'][0]
 
     ser= serial.value
@@ -34,8 +33,7 @@ for i in range(157,217):
 
     model  = driver.find_element_by_xpath('/html/body/div[2]/section[2]/div[1]/div[2]/div[1]/h4').text
     mes_garantia = driver.find_element_by_xpath('/html/body/div[2]/section[2]/div[2]/div/div[2]/div/div[2]/div[1]/div[1]/div/div/p/span[2]').text
-
-    archivo2 = open("EXPORTADO_2_12.TXT",'a')
+    archivo2 = open("EXPORTADO_INICIO_GARANTIA.TXT",'a')
     linea="\n"+str(i) + ";" + str(cod_ncr.value) + ";" + str(nom_tienda.value) +";" + str(serial.value) + ";" + (model) + ";" +mes_garantia
     agregar=agregar+linea+"\n"
     archivo2.write(linea)
@@ -47,10 +45,7 @@ for i in range(157,217):
 
     time.sleep(5)
 
-
-
 driver.quit()
-
 
 archivo = open("EXPORTADO.TXT",'w')
 archivo.write(agregar)
