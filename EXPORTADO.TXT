@@ -1,0 +1,96 @@
+CODIGO NCR;CODIGO SAP;SERIAL;MODELO
+87;2008;6A060243;MJ08179L;M715q 2nd Gen Desktop (ThinkCentre) - Type 10VH;< 9 meses restantes
+
+88;1301;6A060254;MJ08178M;M715q 2nd Gen Desktop (ThinkCentre) - Type 10VH;< 9 meses restantes
+
+89;898;6A060275;MJ07T4GJ;M710s Desktop (ThinkCentre) - Type 10M7;< 9 meses restantes
+
+90;1897;6A060144;MJ07GPSW;M710s Desktop (ThinkCentre) - Type 10M7;< 5 meses restantes
+
+91;635;6A060025;MJ07GPSH;M710s Desktop (ThinkCentre) - Type 10M7;< 8 meses restantes
+
+92;636;6A060099;MJ07GPR0;M710s Desktop (ThinkCentre) - Type 10M7;< 5 meses restantes
+
+93;651;6A060145;MJ07GPQU;M710s Desktop (ThinkCentre) - Type 10M7;< 9 meses restantes
+
+94;602;6A060112;MJ071DUD;M710s Desktop (ThinkCentre) - Type 10M7;0 Mes restante
+
+95;616;6A060116;MJ05TSZG;M710s Desktop (ThinkCentre) - Type 10M8;0 Mes restante
+
+96;1900;6A060259;MJ05TSYE;M710s Desktop (ThinkCentre) - Type 10M8;0 Mes restante
+
+97;639;6A060135;MJ05TST7;M710s Desktop (ThinkCentre) - Type 10M8;0 Mes restante
+
+98;1898;6A060258;MJ05LHSH;M710s Desktop (ThinkCentre) - Type 10M8;0 Mes restante
+
+99;637;6A060262;MJ05LHS7;M710s Desktop (ThinkCentre) - Type 10M8;0 Mes restante
+
+100;2009;6A060271;MJ05LHRM;M710s Desktop (ThinkCentre) - Type 10M8;0 Mes restante
+
+101;1914;6A060082;MJ05LHQU;M710s Desktop (ThinkCentre) - Type 10M8;0 Mes restante
+
+102;647;6A060224;MJ05DVLD;M710s Desktop (ThinkCentre) - Type 10M7;0 Mes restante
+
+103;640;6A060226;MJ05DVK6;M710s Desktop (ThinkCentre) - Type 10M7;0 Mes restante
+
+104;1918;6A060133;MJ054B6Q;M700 Desktop Tower and Small (ThinkCentre) - Type 10GS;0 Mes restante
+
+105;658;6A060136;MJ054B65;M700 Desktop Tower and Small (ThinkCentre) - Type 10GS;0 Mes restante
+
+106;1791;6A060063;MJ054B5E;M700 Desktop Tower and Small (ThinkCentre) - Type 10GS;0 Mes restante
+
+107;600;6A060247;MJ04ZNE6;M700 Desktop Tower and Small (ThinkCentre) - Type 10GS;0 Mes restante
+
+108;629;6A060071;MJ04ZNCD;M700 Desktop Tower and Small (ThinkCentre) - Type 10GS;0 Mes restante
+
+109;909;6A060067;MJ04ZNCC;M700 Desktop Tower and Small (ThinkCentre) - Type 10GS;0 Mes restante
+
+110;2024;6A060122;MJ04ZNAH;M700 Desktop Tower and Small (ThinkCentre) - Type 10GS;0 Mes restante
+
+111;601;6A060265;MJ04ZN89;M700 Desktop Tower and Small (ThinkCentre) - Type 10GS;0 Mes restante
+
+112;607;6A060079;MJ04ZN88;M700 Desktop Tower and Small (ThinkCentre) - Type 10GS;0 Mes restante
+
+113;1786;6A060109;MJ04ZN5R;M700 Desktop Tower and Small (ThinkCentre) - Type 10GS;0 Mes restante
+
+114;1087;6A060015;MJ04S797;M700 Desktop Tower and Small (ThinkCentre) - Type 10GS;0 Mes restante
+
+115;609;6A060111;MJ04S783;M700 Desktop Tower and Small (ThinkCentre) - Type 10GS;0 Mes restante
+
+116;646;6A060193;MJ040FUH;M700 Desktop Tower and Small (ThinkCentre) - Type 10GS;0 Mes restante
+
+117;625;6A060120;MJ03QVBL;M73 Desktop (ThinkCentre) - Type 10B7;0 Mes restante
+
+118;648;6A060051;MJ03QVAM;M73 Desktop (ThinkCentre) - Type 10B7;0 Mes restante
+
+119;1789;6A060248;MJ03QVA6;M73 Desktop (ThinkCentre) - Type 10B7;0 Mes restante
+
+120;662;6A060130;MJ03QVA4;M73 Desktop (ThinkCentre) - Type 10B7;0 Mes restante
+
+121;638;6A060119;MJ03QVA2;M73 Desktop (ThinkCentre) - Type 10B7;0 Mes restante
+
+122;1277;6A060198;MJ03QV9H;M73 Desktop (ThinkCentre) - Type 10B7;0 Mes restante
+
+123;573;6A060261;MJ03QV9C;M73 Desktop (ThinkCentre) - Type 10B7;0 Mes restante
+
+124;620;6A060012;MJ03QV94;M73 Desktop (ThinkCentre) - Type 10B7;0 Mes restante
+
+125;1300;6A060048;MJ03QV8M;M73 Desktop (ThinkCentre) - Type 10B7;0 Mes restante
+
+126;906;6A060121;MJ03PVBP;M73 Desktop (ThinkCentre) - Type 10B7;0 Mes restante
+
+127;663;6A060040;MJ02UE5F;M93p Desktop (ThinkCentre) - Type 10A8;0 Mes restante
+
+128;1699;6A060127;MJ02UE55;M93p Desktop (ThinkCentre) - Type 10A8;0 Mes restante
+
+129;1131;6A060016;MJ02UE4T;M93p Desktop (ThinkCentre) - Type 10A8;0 Mes restante
+
+130;644;6A060266;MJ02KPGT;M73 Desktop (ThinkCentre) - Type 10B7;0 Mes restante
+
+131;599;6A060058;MJ02KPGH;M73 Desktop (ThinkCentre) - Type 10B7;0 Mes restante
+
+132;883;6A060202;MJ01BZDV;M73 Desktop (ThinkCentre) - Type 10B7;0 Mes restante
+
+133;1358;6A060238;MJ014KA9;M73 Desktop (ThinkCentre) - Type 10B7;0 Mes restante
+
+134;2057;6A060027;MJ00G3WC;M73 Desktop (ThinkCentre) - Type 10AX;0 Mes restante

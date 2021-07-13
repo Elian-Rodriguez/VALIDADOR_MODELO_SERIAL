@@ -1,0 +1,134 @@
+CODIGO NCR;CODIGO SAP;SERIAL;MODELO1;571;6A060129;PC05246A;E73 Desktop (ThinkCentre) - Type 10AU
+2;1055;6A060252;PC0K29MB;S510 Desktop (Lenovo) - Type 10KY
+3;591;6A060219;PC0GKZ8A;S510 Desktop (Lenovo) - Type 10KY
+4;586;6A060218;PC0GKZ2L;S510 Desktop (Lenovo) - Type 10KY
+5;595;6A060102;PC0DE6QC;S500 Desktop (Lenovo) - Type 10HV
+6;1552;6A060098;PC0CPN1L;S500 Desktop (Lenovo) - Type 10HV
+7;631;6A060256;PC0BM0VP;S500 Desktop (Lenovo) - Type 10HV
+8;617;6A060234;PC0BM0T4;S500 Desktop (Lenovo) - Type 10HV
+9;589;6A060208;PC08EK0F;E73 Desktop (ThinkCentre) - Type 10AU
+10;576;6A060038;PC08EK0E;E73 Desktop (ThinkCentre) - Type 10AU
+11;588;6A060117;PC08EJW5;E73 Desktop (ThinkCentre) - Type 10AU
+12;587;6A060030;PC08EJVU;E73 Desktop (ThinkCentre) - Type 10AU
+13;585;6A060042;PC08EJVT;E73 Desktop (ThinkCentre) - Type 10AU
+14;581;6A060034;PC08EJVP;E73 Desktop (ThinkCentre) - Type 10AU
+15;604;6A060115;PC08EJVH;E73 Desktop (ThinkCentre) - Type 10AU
+16;583;6A060013;PC08CJ4G;E73 Desktop (ThinkCentre) - Type 10AU
+17;1225;6A060245;PC05EAAP;E73 Desktop (ThinkCentre) - Type 10AU
+18;574;6A060201;PC05EA9Q;E73 Desktop (ThinkCentre) - Type 10AU
+19;572;6A060033;PC05247L;E73 Desktop (ThinkCentre) - Type 10AU
+20;579;6A060031;PC05247K;E73 Desktop (ThinkCentre) - Type 10AU
+21;592;6A060250;PC05247H;E73 Desktop (ThinkCentre) - Type 10AU
+22;594;6A060253;PC05246J;E73 Desktop (ThinkCentre) - Type 10AU
+23;907;6A060113;PC05246G;E73 Desktop (ThinkCentre) - Type 10AU
+24;1134;6A060114;PC05246F;E73 Desktop (ThinkCentre) - Type 10AU
+25;582;6A060235;PC03ZKRB;E73 Desktop (ThinkCentre) - Type 10AU
+26;577;6A060277;PC03ZKR6;E73 Desktop (ThinkCentre) - Type 10AU
+27;575;6A060195;PC03ZKR3;E73 Desktop (ThinkCentre) - Type 10AU
+28;593;6A060197;PC03ZKQ5;E73 Desktop (ThinkCentre) - Type 10AU
+29;578;6A060056;PC031M72;E73 Desktop (ThinkCentre) - Type 10AU
+30;584;6A060128;PC01VFB7;E73 Desktop (ThinkCentre) - Type 10AU
+31;654;6A060229;PC01VFB0;E73 Desktop (ThinkCentre) - Type 10AU
+32;633;6A060249;PC01VFAT;E73 Desktop (ThinkCentre) - Type 10AU
+33;611;6A060199;PC01VFAM;E73 Desktop (ThinkCentre) - Type 10AU
+34;610;6A060028;PC01VFAD;E73 Desktop (ThinkCentre) - Type 10AU
+35;1628;6A060211;PC01VFAC;E73 Desktop (ThinkCentre) - Type 10AU
+36;1759;6A060024;PC01VFAA;E73 Desktop (ThinkCentre) - Type 10AU
+37;1641;6A060026;PC01VFA7;E73 Desktop (ThinkCentre) - Type 10AU
+38;1678;6A060251;PC01VF9S;E73 Desktop (ThinkCentre) - Type 10AU
+39;597;6A060011;PC01VF9N;E73 Desktop (ThinkCentre) - Type 10AU
+40;1627;6A060009;PC01VF9L;E73 Desktop (ThinkCentre) - Type 10AU
+41;866;6A060233;PC01VF9H;E73 Desktop (ThinkCentre) - Type 10AU
+42;1629;6A060220;MJYNBLA;M72e Desktop (ThinkCentre) - Type 3598
+43;643;6A060097;MJ0ECW9C;M720q Desktop (ThinkCentre) - Type 10T8
+44;903;6A060019;MJ0EB7VH;M75q-1 Desktop (ThinkCentre) - Type 11A5
+45;828;6A060039;MJ0EB7TF;M75q-1 Desktop (ThinkCentre) - Type 11A5
+46;824;6A060302;MJ0EB7TC;M75q-1 Desktop (ThinkCentre) - Type 11A5
+47;832;6A060298;MJ0BMHZP;M720s (Desktop) ThinKCentre - Type 10SU
+48;634;6A060110;MJ0BMHZK;M720s (Desktop) ThinKCentre - Type 10SU
+49;835;6A060301;MJ0BMHZJ;M720s (Desktop) ThinKCentre - Type 10SU
+50;831;6A060299;MJ0BMHZH;M720s (Desktop) ThinKCentre - Type 10SU
+51;833;6A060188;MJ0BMHZG;M720s (Desktop) ThinKCentre - Type 10SU
+52;632;6A060260;MJ0BC24B;M75q-1 Desktop (ThinkCentre) - Type 11A5
+53;829;6A060083;MJ0BC230;M75q-1 Desktop (ThinkCentre) - Type 11A5
+54;851;6A060041;MJ0BC22S;M75q-1 Desktop (ThinkCentre) - Type 11A5
+55;830;6A060183;MJ0BC221;M75q-1 Desktop (ThinkCentre) - Type 11A5
+56;852;6A060062;MJ0BC21R;M75q-1 Desktop (ThinkCentre) - Type 11A5
+57;858;6A060192;MJ0BC20Q;M75q-1 Desktop (ThinkCentre) - Type 11A5
+58;854;6A060204;MJ0BC20A;M75q-1 Desktop (ThinkCentre) - Type 11A5
+59;860;6A060191;MJ0BC1ZW;M75q-1 Desktop (ThinkCentre) - Type 11A5
+60;839;6A060232;MJ09PNWD;M720s (Desktop) ThinKCentre - Type 10SU
+61;1339;6A060155;MJ09PNVL;M720s (Desktop) ThinKCentre - Type 10SU
+62;880;6A060160;MJ09PNVA;M720s (Desktop) ThinKCentre - Type 10SU
+63;1299;6A060255;MJ09MVK5;M720s (Desktop) ThinKCentre - Type 10SU
+64;871;6A060150;MJ09JHX1;M715q 2nd Gen Desktop (ThinkCentre) - Type 10VH
+65;842;6A060178;MJ09JHVC;M715q 2nd Gen Desktop (ThinkCentre) - Type 10VH
+66;885;6A060081;MJ09JHTP;M715q 2nd Gen Desktop (ThinkCentre) - Type 10VH
+67;826;6A060200;MJ09JHT9;M715q 2nd Gen Desktop (ThinkCentre) - Type 10VH
+68;882;6A060293;MJ09JHT6;M715q 2nd Gen Desktop (ThinkCentre) - Type 10VH
+69;605;6A060070;MJ09JHSW;M715q 2nd Gen Desktop (ThinkCentre) - Type 10VH
+70;850;6A060148;MJ09JHSA;M715q 2nd Gen Desktop (ThinkCentre) - Type 10VH
+71;881;6A060282;MJ09JFGX;M715q 2nd Gen Desktop (ThinkCentre) - Type 10VH
+72;865;6A060167;MJ099GSE;M715q 2nd Gen Desktop (ThinkCentre) - Type 10VH
+73;888;6A060186;MJ099GS0;M715q 2nd Gen Desktop (ThinkCentre) - Type 10VH
+74;641;6A060142;MJ099GRL;M715q 2nd Gen Desktop (ThinkCentre) - Type 10VH
+75;868;6A060246;MJ08VWXS;M715q 2nd Gen Desktop (ThinkCentre) - Type 10VH
+76;869;6A060280;MJ08VWX1;M715q 2nd Gen Desktop (ThinkCentre) - Type 10VH
+77;856;6A060278;MJ08VWWY;M715q 2nd Gen Desktop (ThinkCentre) - Type 10VH
+78;897;6A060080;MJ08LGTM;M720s (Desktop) ThinKCentre - Type 10SU
+79;877;6A060292;MJ08LGTD;M720s (Desktop) ThinKCentre - Type 10SU
+80;886;6A060003;MJ08LGSL;M720s (Desktop) ThinKCentre - Type 10SU
+81;606;6A060162;MJ08LGRA;M720s (Desktop) ThinKCentre - Type 10SU
+82;1140;6A060289;MJ08LGPK;M720s (Desktop) ThinKCentre - Type 10SU
+83;596;6A060161;MJ08LGMC;M720s (Desktop) ThinKCentre - Type 10SU
+84;608;6A060284;MJ08LGKC;M720s (Desktop) ThinKCentre - Type 10SU
+85;2032;6A060165;MJ08LGK4;M720s (Desktop) ThinKCentre - Type 10SU
+86;913;6A060163;MJ08GLX;M78 Desktop (ThinkCentre) - Type 5100
+87;2008;6A060243;MJ08179L;M715q 2nd Gen Desktop (ThinkCentre) - Type 10VH
+88;1301;6A060254;MJ08178M;M715q 2nd Gen Desktop (ThinkCentre) - Type 10VH
+89;898;6A060275;MJ07T4GJ;M710s Desktop (ThinkCentre) - Type 10M7
+90;1897;6A060144;MJ07GPSW;M710s Desktop (ThinkCentre) - Type 10M7
+91;635;6A060025;MJ07GPSH;M710s Desktop (ThinkCentre) - Type 10M7
+92;636;6A060099;MJ07GPR0;M710s Desktop (ThinkCentre) - Type 10M7
+93;651;6A060145;MJ07GPQU;M710s Desktop (ThinkCentre) - Type 10M7
+94;602;6A060112;MJ071DUD;M710s Desktop (ThinkCentre) - Type 10M7
+95;616;6A060116;MJ05TSZG;M710s Desktop (ThinkCentre) - Type 10M8
+96;1900;6A060259;MJ05TSYE;M710s Desktop (ThinkCentre) - Type 10M8
+97;639;6A060135;MJ05TST7;M710s Desktop (ThinkCentre) - Type 10M8
+98;1898;6A060258;MJ05LHSH;M710s Desktop (ThinkCentre) - Type 10M8
+99;637;6A060262;MJ05LHS7;M710s Desktop (ThinkCentre) - Type 10M8
+100;2009;6A060271;MJ05LHRM;M710s Desktop (ThinkCentre) - Type 10M8
+101;1914;6A060082;MJ05LHQU;M710s Desktop (ThinkCentre) - Type 10M8
+102;647;6A060224;MJ05DVLD;M710s Desktop (ThinkCentre) - Type 10M7
+103;640;6A060226;MJ05DVK6;M710s Desktop (ThinkCentre) - Type 10M7
+104;1918;6A060133;MJ054B6Q;M700 Desktop Tower and Small (ThinkCentre) - Type 10GS
+105;658;6A060136;MJ054B65;M700 Desktop Tower and Small (ThinkCentre) - Type 10GS
+106;1791;6A060063;MJ054B5E;M700 Desktop Tower and Small (ThinkCentre) - Type 10GS
+107;600;6A060247;MJ04ZNE6;M700 Desktop Tower and Small (ThinkCentre) - Type 10GS
+108;629;6A060071;MJ04ZNCD;M700 Desktop Tower and Small (ThinkCentre) - Type 10GS
+109;909;6A060067;MJ04ZNCC;M700 Desktop Tower and Small (ThinkCentre) - Type 10GS
+110;2024;6A060122;MJ04ZNAH;M700 Desktop Tower and Small (ThinkCentre) - Type 10GS
+111;601;6A060265;MJ04ZN89;M700 Desktop Tower and Small (ThinkCentre) - Type 10GS
+112;607;6A060079;MJ04ZN88;M700 Desktop Tower and Small (ThinkCentre) - Type 10GS
+113;1786;6A060109;MJ04ZN5R;M700 Desktop Tower and Small (ThinkCentre) - Type 10GS
+114;1087;6A060015;MJ04S797;M700 Desktop Tower and Small (ThinkCentre) - Type 10GS
+115;609;6A060111;MJ04S783;M700 Desktop Tower and Small (ThinkCentre) - Type 10GS
+116;646;6A060193;MJ040FUH;M700 Desktop Tower and Small (ThinkCentre) - Type 10GS
+117;625;6A060120;MJ03QVBL;M73 Desktop (ThinkCentre) - Type 10B7
+118;648;6A060051;MJ03QVAM;M73 Desktop (ThinkCentre) - Type 10B7
+119;1789;6A060248;MJ03QVA6;M73 Desktop (ThinkCentre) - Type 10B7
+120;662;6A060130;MJ03QVA4;M73 Desktop (ThinkCentre) - Type 10B7
+121;638;6A060119;MJ03QVA2;M73 Desktop (ThinkCentre) - Type 10B7
+122;1277;6A060198;MJ03QV9H;M73 Desktop (ThinkCentre) - Type 10B7
+123;573;6A060261;MJ03QV9C;M73 Desktop (ThinkCentre) - Type 10B7
+124;620;6A060012;MJ03QV94;M73 Desktop (ThinkCentre) - Type 10B7
+125;1300;6A060048;MJ03QV8M;M73 Desktop (ThinkCentre) - Type 10B7
+126;906;6A060121;MJ03PVBP;M73 Desktop (ThinkCentre) - Type 10B7
+127;663;6A060040;MJ02UE5F;M93p Desktop (ThinkCentre) - Type 10A8
+128;1699;6A060127;MJ02UE55;M93p Desktop (ThinkCentre) - Type 10A8
+129;1131;6A060016;MJ02UE4T;M93p Desktop (ThinkCentre) - Type 10A8
+130;644;6A060266;MJ02KPGT;M73 Desktop (ThinkCentre) - Type 10B7
+131;599;6A060058;MJ02KPGH;M73 Desktop (ThinkCentre) - Type 10B7
+132;883;6A060202;MJ01BZDV;M73 Desktop (ThinkCentre) - Type 10B7
+133;1358;6A060238;MJ014KA9;M73 Desktop (ThinkCentre) - Type 10B7
+134;2057;6A060027;MJ00G3WC;M73 Desktop (ThinkCentre) - Type 10AX

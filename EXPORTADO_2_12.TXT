@@ -1,0 +1,11 @@
+
+1;571;6A060129;PC05246A;E73 Desktop (ThinkCentre) - Type 10AU;0 Mes restante
+2;572;6A060033;PC05247L;E73 Desktop (ThinkCentre) - Type 10AU;0 Mes restante
+3;573;6A060261;MJ03QV9C;M73 Desktop (ThinkCentre) - Type 10B7;0 Mes restante
+4;574;6A060201;PC05EA9Q;E73 Desktop (ThinkCentre) - Type 10AU;0 Mes restante
+5;575;6A060195;PC03ZKR3;E73 Desktop (ThinkCentre) - Type 10AU;0 Mes restante
+6;576;6A060038;PC08EK0E;E73 Desktop (ThinkCentre) - Type 10AU;0 Mes restante
+7;577;6A060277;PC03ZKR6;E73 Desktop (ThinkCentre) - Type 10AU;0 Mes restante
+8;578;6A060056;PC031M72;E73 Desktop (ThinkCentre) - Type 10AU;0 Mes restante
+9;579;6A060031;PC05247K;E73 Desktop (ThinkCentre) - Type 10AU;0 Mes restante
+10;581;6A060034;PC08EJVP;E73 Desktop (ThinkCentre) - Type 10AU;0 Mes restante
