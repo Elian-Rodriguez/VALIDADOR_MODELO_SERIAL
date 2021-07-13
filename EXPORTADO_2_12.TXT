@@ -9,3 +9,5 @@
 8;578;6A060056;PC031M72;E73 Desktop (ThinkCentre) - Type 10AU;0 Mes restante
 9;579;6A060031;PC05247K;E73 Desktop (ThinkCentre) - Type 10AU;0 Mes restante
 10;581;6A060034;PC08EJVP;E73 Desktop (ThinkCentre) - Type 10AU;0 Mes restante
+11;582;6A060235;PC03ZKRB;E73 Desktop (ThinkCentre) - Type 10AU;0 Mes restante
+12;583;6A060013;PC08CJ4G;E73 Desktop (ThinkCentre) - Type 10AU;0 Mes restante
