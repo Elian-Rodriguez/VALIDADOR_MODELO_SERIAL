@@ -7,6 +7,7 @@ from selenium.webdriver.common.keys import Keys
 from openpyxl import load_workbook
 import time
 import pymysql
+import pyautogui 
 import pyautogui as pg
 import time
 import webbrowser as web
@@ -31,8 +32,9 @@ if valor > 0:
     time.sleep(15)
     pg.write(' , ')
     pg.press('enter')
+    pyautogui.press("enter")
     print('Mensaje #'+' enviado')
     pass
     time.sleep(20)
+    
     os.system("taskkill /im chrome.exe /f")
-web
